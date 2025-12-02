@@ -53,7 +53,7 @@ I enjoy architecting scalable solutions, optimizing performance, and delivering 
 - Building enterprise-grade .NET systems  
 - Legacy modernization (.NET Core, microservices)  
 - SQL performance tuning & data engineering  
-- Cloud-native development (Azure)  
+- Cloud-native development (Azure , AWS)  
 - High-performance API development  
 - Technical leadership & mentoring  
 
