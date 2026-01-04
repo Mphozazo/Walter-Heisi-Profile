@@ -16,7 +16,13 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Senior Software Engineer** with over **30 years of experience**, specialising in:
+**Senior Software Engineer** with 30+ years of experience designing, modernising, and supporting enterprise
+backend systems across banking, insurance, government, and financial services. 
+Specialises in Microsoft .NET, API engineering, system modernisation, and cloud-based architectures, with a strong focus on
+**reliability, performance, scalable, secure,hogh-performance,and production stability**. Proven track record in transforming legacy VB/Delphi
+systems into scalable .NET and microservice-based platforms.Comfortable operating at senior-to-lead level, owning systems end-to-end and mentoring engineers.
+
+I specialising in:
 
 - ⚡ **.NET Core & C#**
 - ⚡ **RESTful API Architecture & backend development**
@@ -24,8 +30,6 @@ I am a **Senior Software Engineer** with over **30 years of experience**, specia
 - ⚡ **High-performance enterprise systems**
 - ⚡ **SQL Server data engineering**
 - ⚡ **Legacy modernisation into .NET Core & microservices**
-
-I build **scalable**, **secure**, and **high-performing** backend systems used across banking, insurance, government, and finance.
 
 ---
 
@@ -84,21 +88,8 @@ I build **scalable**, **secure**, and **high-performing** backend systems used a
 
 ---
 
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mphozazo&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
-
 # 🚀 Featured Projects
-
-<p align="center">
-  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mphozazo&repo=RESTful-API-Architecture&theme=tokyonight" /></a>
-  <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mphozazo&repo=DotNetCore-Microservices&theme=tokyonight" /></a>
-</p>
-
-> I can create placeholder repos named **RESTful-API-Architecture** and **DotNetCore-Microservices** if you want — just say **“yes, create the repo names for me.”**
+> Comming Soon...
 
 ---
 
