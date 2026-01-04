@@ -53,12 +53,12 @@ I specialising in:
 <summary><b>⚙️ API & Architecture Expertise</b></summary>
 <br/>
 <ul>
-  <li>RESTful API Design (HATEOAS, routing, versioning)</li>
+  <li>RESTful API Design (routing, versioning, caching )</li>
   <li>gRPC high-performance services</li>
   <li>Domain-Driven Design (DDD)</li>
-  <li>Clean Architecture, Onion Architecture</li>
+  <li>Clean Architecture</li>
   <li>Asynchronous programming / high throughput APIs</li>
-  <li>Microservices patterns (Saga, Event Sourcing, CQRS)</li>
+  <li>Microservices patterns (CQRS)</li>
 </ul>
 </details>
 
@@ -83,6 +83,7 @@ I specialising in:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle" />
   <img src="https://img.shields.io/badge/MongoDB-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/NoSql-AA0000?style=for-the-badge&logo=oracle" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F80000?style=for-the-badge&logo=postgreSQL" />
 </p>
 </details>
 
