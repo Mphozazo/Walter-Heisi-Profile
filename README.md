@@ -54,7 +54,7 @@ I specialising in:
 <br/>
 <ul>
   <li>RESTful API Design (routing, versioning, caching )</li>
-  <li>gRPC high-performance services</li>
+  <li>gRPC high-performance services(Beginner)</li>
   <li>Domain-Driven Design (DDD)</li>
   <li>Clean Architecture</li>
   <li>Asynchronous programming / high throughput APIs</li>
