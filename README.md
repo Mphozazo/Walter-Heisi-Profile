@@ -104,21 +104,12 @@
 
 ---
 
-# 🟢 Final
-  <h3 align="center">
-   ⭐ Building reliable, scalable, and high-performance .NET backend systems for enterprise production ⭐
-  </h3>
-
----
-
-# 📫 Contact Me
+# 📫 Contacts
 📧 **Email:** mphozazo@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/walter-heisi-3987b98  
 
 ---
 
-<h3 align="center">⭐ “Building fast, scalable and clean .NET Core REST APIs since before .NET Core existed.” ⭐</h3>
-
----
-
-⭐ *“Engineering excellence through clean architecture, strong fundamentals, and modern software craftsmanship.”*
+<h3 align="center">
+   ⭐ Building reliable, scalable, and high-performance .NET backend systems for enterprise production ⭐
+  </h3>
