@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=0CF7E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Walter+Heisi;Senior+Software+Engineer;Enterprise+.NET+%26+API+Specialist;Cloud+%7C+Microservices+%7C+System+Modernisation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=0CF7E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Walter+Heisi;Senior+Software+Engineer;Enterprise+.NET+%26+API+Specialist;CCloud+%7C+Microservices+%7C+System+Modernisation" />
 </h1>
 
 <p align="center">
