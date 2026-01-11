@@ -99,7 +99,7 @@
 # 🚀 Certificate and Learning 
  ### 📜 Certificates
 - **Docker Crash Course for busy DevOps and Developers** – Udemy (2026)  
-  🔗 [https://www.udemy.com/certificate/UC-XXXX](https://www.udemy.com/certificate/UC-62489942-2d4c-4b84-9b99-1b4e3f0bcedf/)
+  🔗 https://www.udemy.com/certificate/UC-62489942-2d4c-4b84-9b99-1b4e3f0bcedf/
 
 
 ---
