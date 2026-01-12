@@ -96,18 +96,23 @@
 
 ---
 
+
+## 🚀 Featured Projects
+  ### 📸 [WhatsApp Meter Reading Processing System](https://github.com/Mphozazo/Whatsapp-meter-reading-system)
+---
+
 # 🚀 Certificate and Learning 
  ### 📜 Certificates
 - **Docker Crash Course for busy DevOps and Developers** – Udemy (2026)  
-  🔗 https://www.udemy.com/certificate/UC-62489942-2d4c-4b84-9b99-1b4e3f0bcedf/
+  🔗 [View Certificate](https://www.udemy.com/certificate/UC-62489942-2d4c-4b84-9b99-1b4e3f0bcedf/) 
 
 
 ---
 
 # 📫 Contacts
 📧 **Email:** mphozazo@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/walter-heisi-3987b98  
-
+🔗 **LinkedIn:** [walter-heisi-3987b98](https://www.linkedin.com/in/walter-heisi-3987b98)  
+💼 **GitHub:** [@Mphozazo](https://github.com/Mphozazo)
 ---
 
 <h3 align="center">
