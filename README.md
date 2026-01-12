@@ -97,8 +97,47 @@
 ---
 
 
-## 🚀 Featured Projects
-  ### 📸 [WhatsApp Meter Reading Processing System](https://github.com/Mphozazo/Whatsapp-meter-reading-system)
+# 🚀 Featured Projects
+  ## 📸 [WhatsApp Meter Reading Processing System](https://github.com/Mphozazo/Whatsapp-meter-reading-system)
+
+  **Cloud-native, event-driven microservices architecture for utility meter reading automation**
+    A production-grade system demonstrating modern software engineering practices:
+     
+  **🏗️ Architecture Highlights:**
+    - Event-driven microservices with RabbitMQ message broker
+    - AWS Lambda for serverless ingestion layer
+    - .NET microservice for billing domain logic
+    - Python OCR service for image processing
+    - DynamoDB for audit trails and S3 for image storage
+
+   **🔧 Technologies:**
+     - `.NET Core` | `Python` | `AWS Lambda` | `RabbitMQ` | `DynamoDB` | `S3`
+     - `Twilio WhatsApp API` | `Docker` | `Microservices` | `Event-Driven Architecture`
+
+  **💡 Key Features:**
+    - Asynchronous message processing with retry and dead-letter queues
+    - Idempotent webhook handling for reliability
+    - Scalable serverless ingestion handling traffic spikes
+    - Multi-language microservices demonstrating polyglot architecture
+    - Production-ready failure handling and monitoring patterns
+
+  **📊 What This Demonstrates:**
+   - Real-world cloud-native design patterns
+   - Event-driven architecture and messaging
+   - Serverless computing best practices
+   - Microservices communication and fault isolation
+   - System design for reliability and scalability
+
+<p>
+  <a href="https://github.com/Mphozazo/Whatsapp-meter-reading-system">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 ---
 
 # 🚀 Certificate and Learning 
