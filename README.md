@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me
- Senior Software Engineer with 30+ years of experience designing, modernising,
+ Senior Software Engineer with 27+ years of experience designing, modernising,
  and supporting enterprise backend systems across banking, insurance,
  government, and financial services.
 
