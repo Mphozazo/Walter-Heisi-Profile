@@ -27,6 +27,8 @@
  .NET and microservice-based platforms. Comfortable operating at senior-to-lead
  level, owning systems end-to-end and mentoring engineers.
 
+ See my full, profile : https://mphozazo.github.io/Walter-Heisi-Profile/
+
 
 ### I specialise in:
 - ⚡ .NET Core & C#
